@@ -17,5 +17,5 @@ This project automates the deployment of a secure and scalable 2-tier architectu
 
 ## Project Setup
 1. Clone the repository:
-   git clone <repository-URL>
+   git clone https://github.com/yash-jawoor1/aws-terraform-devops-pipeline.git
    cd aws-terraform-devops-pipeline
